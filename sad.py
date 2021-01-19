@@ -1,0 +1,2 @@
+class mad():
+  print("hi")
